@@ -13,7 +13,3 @@ Download /extension/Bangumi.popclipext and install.
 
 ## Credit:
 Extension by Satoi as [长颈鹿](http://bangumi.tv/user/giraffe) on bangumi.tv.
-
-Contact me: leon8080@outlook.com
-
-
