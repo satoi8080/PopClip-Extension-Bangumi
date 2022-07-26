@@ -5,8 +5,6 @@
 	<key>Actions</key>
 	<array>
 		<dict>
-			<key>Image File</key>
-			<string></string>
 			<key>Title</key>
 			<string>Bangumi</string>
 			<key>URL</key>
@@ -26,7 +24,7 @@
 	<array>
 		<dict>
 			<key>Name</key>
-			<string>Satoi Harisaki</string>
+			<string>Giraffe</string>
 		</dict>
 	</array>
 	<key>Extension Description</key>
